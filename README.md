@@ -1,3 +1,16 @@
+Step file: https://drive.google.com/file/d/137jNTaRoNI27OrbtDWnmjqus18IWD8N4/view?usp=sharing
+
+Assembly instructions:
+- connect the lipo battery and board via by plugging in the lipo battery into the board.
+- place the lipo battery, while connected, into its slot
+- place the board in its position and screw it into the holes provided
+- place the e-paper screen in its position and connect it to the board via the extension cable provided and through the hole in the case
+- add the button and switch covers before flashing the code
+
+Wiring guide:
+Conect the lipo battery to the board via the lipo battery's plug and connect the board to the epaper display via the extension cable.
+Lipo battery -> Board -> E-paper display
+
 # epaper-desk-clock
 This is my epaper desk clock. I wanted it to  be wireless and show the digital time so I don't lose track of time. I wanted it to be wireless so it doesn't clutter up my desk and I think it turned out really well.
 
