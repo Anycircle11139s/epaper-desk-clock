@@ -12,6 +12,11 @@ Conect the lipo battery to the board via the lipo battery's plug and connect the
 <br>
 
 Lipo battery -> Board -> E-paper display
+<br>
+<br>
+<img width="655" height="307" alt="Screenshot 2026-04-26 at 7 42 10 pm" src="https://github.com/user-attachments/assets/6482f8c3-4ec6-46c2-b6fc-c4df4d374d69" />
+<br>
+<br>
 
 # epaper-desk-clock
 This is my epaper desk clock. I wanted it to  be wireless and show the digital time so I don't lose track of time. I wanted it to be wireless so it doesn't clutter up my desk and I think it turned out really well.
